@@ -1,0 +1,95 @@
+
+.red-section{
+
+    background-color: #cc3843;
+    width: 480px;
+    height: 553px;
+    border-radius: 20px;
+    box-sizing: border-box;
+    position: relative;
+    margin: auto;
+    margin-left: 230px;
+    
+}
+.blue-section {
+
+    background-color: #0c1f2c;
+    width: 645px;
+    height: 479px;
+    color: white;
+    border-radius: 20px;
+    margin-top: 35px;
+    margin-left: 230px;
+    position: absolute;
+}
+
+.imagen{
+    opacity: 0.2;
+    margin-left: 5px;
+    margin-top: 50px;
+    height: 450px;
+    position: absolute;
+}
+.imagen-secondary{
+
+    position: absolute;
+    text-align: center;
+    margin-top: 65px;
+    margin-left: -150px;
+}
+.div{
+    margin-left: 230px;
+}
+.button {
+
+    background-color: #cc3843;
+    border-color: #cc3843;
+    color: white;
+    padding: 10px;
+    border-radius: 40px;
+    font-family: 'Krub', open-sans;
+    font-size: 400;
+    position: absolute;
+    margin-top: 30px;
+}
+
+.h1 {
+
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 800;
+    font-size: 30px;
+    margin-left: 230px;
+    position: absolute;
+}
+
+.h2 {
+    font-family: 'Krub', sans-serif;
+    font-weight: 400;
+    margin-left: 230px;
+    margin-top: 10px;
+    position: absolute;
+    margin-top: 160px;
+}
+.h3{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 12px;
+    margin-left: 230px;
+    position: absolute;
+    margin-top: 300px;
+}
+
+.blue-button {
+    background-color: #0c1f2c;
+    color: aliceblue;
+    width: 40px;
+    height: 40px;
+    border-radius: 40px;
+    font-size: 400;
+    margin-top:330px ;
+    
+}
+.is-active{
+
+    border-color: #cc3843;
+    cursor: pointer;
+}
